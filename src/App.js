@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import logos from './favicon.png';
 import './App.css';
 
 const links = {
